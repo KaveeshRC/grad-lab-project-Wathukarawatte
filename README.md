@@ -19,3 +19,6 @@ Our main programming language is going to be python, and we will be working with
   - [x] Learn about the dataset, MRI modalities and brain tumor segmentation.
   - [x] Study U-Net and existing U-Net implementations for brain tumor segmentation
   - [ ] Implement a baseline segmentation and evaluate performance
+
+## Next Steps
+I plan on reading existing U-Net based architectures, specifically about FFLUNet, which is an architecture focused on efficiency, and implementing their code on our dataset.
